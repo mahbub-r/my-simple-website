@@ -1,5 +1,10 @@
 div{
     background-color: bisque;
-    margin: 20px;
-    padding: 5px;
+    margin-bottom: 10px;
+    padding: 5pxg;
+}
+h3{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
 }
